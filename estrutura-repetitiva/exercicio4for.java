@@ -9,6 +9,7 @@ public class exercicio4for {
         int N = sc.nextInt();
 
         for (int i=0; i<N; i++){
+            String a = sc.next();
             double x = sc.nextDouble();
             double y = sc.nextDouble();
             if (y != 0){
